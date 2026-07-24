@@ -1,0 +1,7 @@
+Valid Login Code: 362AS062AS 00
+Study start Time: 7/24/2026 12:40:50 PM
+Collision: 1
+Collision: 2
+Collision: 3
+Completion Code: 362EV062SX45
+Study end Time: 7/24/2026 12:49:37 PM
